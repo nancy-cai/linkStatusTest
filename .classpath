@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/selenium-server-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/sqljdbc4-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/groovy-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/groovy-json-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/groovy-xml-2.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/json-path-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/json-path-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/rest-assured-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/rest-assured-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/rest-assured-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/rest-assured-common-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/rest-assured-common-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/xml-path-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OA-User2/Downloads/rest-assured-2.8.0-dist/xml-path-2.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
